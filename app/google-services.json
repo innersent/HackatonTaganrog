@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "929741123197",
+    "firebase_url": "https://hackatontaganrokbd-default-rtdb.firebaseio.com",
+    "project_id": "hackatontaganrokbd",
+    "storage_bucket": "hackatontaganrokbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929741123197:android:e1e6ae7147711540e64b14",
+        "android_client_info": {
+          "package_name": "com.example.finalhackatonproject100procent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929741123197-d5nc15p1ochb55klgd2o479qmv9j8hgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgpGcL5yJpEK3Cc_yO5gYRIWjmQFJFyT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929741123197-d5nc15p1ochb55klgd2o479qmv9j8hgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929741123197:android:37d2b04628e5d00ae64b14",
+        "android_client_info": {
+          "package_name": "com.example.hackatonfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929741123197-d5nc15p1ochb55klgd2o479qmv9j8hgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgpGcL5yJpEK3Cc_yO5gYRIWjmQFJFyT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929741123197-d5nc15p1ochb55klgd2o479qmv9j8hgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

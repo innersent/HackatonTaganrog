@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/drawable-v24/cicrle1.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/drawable/cicrcl1.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/drawable/cicrle.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/drawable/radius.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_achievements.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_interes.xml" value="0.33" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_log.xml" value="0.25" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_new_info.xml" value="0.25" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_profile2.xml" value="0.33" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_reg.xml" value="0.22" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_reg2.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_retro_client.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_scanner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/activity_walk.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/item1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAD-08/AndroidStudioProjects/FinalHackatonProject100procent/app/src/main/res/layout/map.xml" value="0.20572916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

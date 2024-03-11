@@ -27,12 +27,10 @@ public class LogActivity extends AppCompatActivity {
 
     public void goProfile(View view){
         CheckInteresting.checkProfile = true;
-        Intent i = new Intent(LogActivity.this,ProfileActivity2.class);
-        startActivity(i);
+        startActivity(new Intent(LogActivity.this, ProfileActivity2.class));
     }
 
     public void register(View view) {
-        Intent intent = new Intent(LogActivity.this,RegActivity.class);
-        startActivity(intent);
+            startActivity(new Intent(LogActivity.this, RegActivity.class));
     }
 }
